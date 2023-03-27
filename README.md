@@ -10,5 +10,5 @@ Hi there, I'm Fernanda a geographer with 5 years of experience in information ma
 - 📫 How to reach me: <a href='https://mail.google.com/mail/?view=cm&fs=1&to=maferayala92@gmail.com'>maferayala92@gmail.com</a>
 
 <!--- 🔭 I’m currently working on ...
-<!--- 🌱 I’m currently learning ...<!>
+<!--- 🌱 I’m currently learning ...<!>e
 
