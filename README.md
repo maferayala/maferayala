@@ -1,5 +1,5 @@
 <h3 align="left" style = "font-family:Open Sans;font-weight: bold;">
-Hi there, I'm Fernanda a geographer from Ecuador with 5 years of experience in information management for humanitarian organizations, I love maps 🗺️ & drones </h3>
+Hi there, I'm Fernanda a geographer from Ecuador with 5 years of experience in information management for humanitarian organizations, I love maps 🗺️ & drones! </h3>
 
 - 🌱 I’m currently working on: Data Visualization with Python
 - Want to know more about me?, take a look at my CV 
