@@ -12,3 +12,4 @@ Hi there, I'm Fernanda a geographer from Ecuador with 5 years of experience in i
 <!--- 🔭 I’m currently working on ...
 <!--- 🌱 I’m currently learning ...<!>e
 
+Languages & Technologies
